@@ -1,2 +1,4 @@
-# Blinkit-EDA-using-python
-Data analysis and visualization of Blinkit data
+Blinkit EDA Project 
+
+This project contains an exploratory data analysis (EDA) of Blinkit data using Python.
+The notebook walks through data cleaning, visualization, and insights extraction.
